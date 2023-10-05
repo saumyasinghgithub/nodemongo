@@ -1,0 +1,23 @@
+{
+  "name": "nodemongo",
+  "version": "1.0.0",
+  "description": "for test purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumyasinghgithub/nodemongo.git"
+  },
+  "keywords": [
+    "mongoDB",
+    "nodeJS"
+  ],
+  "author": "Saumya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumyasinghgithub/nodemongo/issues"
+  },
+  "homepage": "https://github.com/saumyasinghgithub/nodemongo#readme"
+}
